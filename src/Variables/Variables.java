@@ -37,12 +37,4 @@ public class Variables {
 
     }
 
-
-
-
-
-
-
-
-
 }
